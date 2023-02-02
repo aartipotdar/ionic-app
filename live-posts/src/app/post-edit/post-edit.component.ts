@@ -58,7 +58,8 @@ export class PostEditComponent {
       description,
       imagePath,
       'rt@gmail.com',
-      new Date()
+      new Date(),
+      0
     );
 
     //calling service
